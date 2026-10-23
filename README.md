@@ -2,6 +2,9 @@
 
 **An autonomous sales agent that runs on your Claude Code or Codex subscription.**
 
+> **Configured fork maintained by Roshin Jose (OneIMS).** Based on [Harvey](https://github.com/ethanplusai/harvey) by Ethan Rogers, MIT-licensed — see [LICENSE](LICENSE). The sender persona in `harvey.yaml` is set to Roshin Jose / OneIMS; product, offer and ICP are left as placeholders to fill before sending.
+
+
 Harvey finds businesses worth selling to, learns something specific about each one, writes cold email that references it, sends it, reads the replies, and works the conversation toward a meeting. It runs on your machine, in a loop, on its own.
 
 The unusual part: **there is no model API bill.** Harvey uses your Claude Pro or Max subscription through Claude Code, or your ChatGPT subscription through Codex. Model calls use the plan you already pay for, without an API key or per-token API billing. Claude is the default; [Codex is an opt-in provider on macOS and Linux](#using-a-chatgpt-plan-instead-codex).

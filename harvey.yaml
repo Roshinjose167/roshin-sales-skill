@@ -1,9 +1,9 @@
 persona:
-  name: "Harvey"
-  company: "Your Company"
+  name: "Roshin Jose"
+  company: "OneIMS"
   role: "Business Development"
-  email: "harvey@yourcompany.com"
-  linkedin: "linkedin.com/in/harvey-yourcompany"
+  email: "roshinjose1@gmail.com"      # swap for your real sending address (secondary domain for cold email)
+  linkedin: ""                          # add your LinkedIn profile URL
   tone: "professional, consultative, confident"
 
 product:
